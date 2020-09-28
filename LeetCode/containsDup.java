@@ -7,7 +7,6 @@ class Solution {
         }
         
         if(count.size() < nums.length) return true;
-        
         return false;
     }
 }
